@@ -1,0 +1,14 @@
+footer {
+    padding: 20px;
+    border: 1px solid #ddd;
+}
+
+footer p {
+    margin: 0;
+    padding: 10px 8px;
+}
+
+footer p .red {
+    color: red;
+    background-color: #fff;
+}

@@ -1,0 +1,12 @@
+.red{
+    color: yellowgreen;
+    padding: 2px;
+}
+.contaienr {
+    margin: 0 auto;
+}
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
